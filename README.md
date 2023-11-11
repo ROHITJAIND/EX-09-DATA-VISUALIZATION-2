@@ -31,7 +31,7 @@ df.isnull().sum()
 </td> 
 <td>
 
-<img height=50% width=68% src="https://github.com/ROHITJAIND/EX-09-DATA-VISUALIZATION-2/assets/118707073/44161065-c459-49a3-954c-ef9e67be83ec">&emsp;<img height=50% width=28% src="https://github.com/ROHITJAIND/EX-09-DATA-VISUALIZATION-2/assets/118707073/dae81958-2894-4660-af37-dfa4205fe7ed">
+<img height=50% width=65% src="https://github.com/ROHITJAIND/EX-09-DATA-VISUALIZATION-2/assets/118707073/44161065-c459-49a3-954c-ef9e67be83ec">&emsp;<img height=50% width=25% src="https://github.com/ROHITJAIND/EX-09-DATA-VISUALIZATION-2/assets/118707073/dae81958-2894-4660-af37-dfa4205fe7ed">
 
 </td>
 </tr> 
