@@ -165,8 +165,8 @@ plt.title("Relation Between Total Bill Amount by Day
 <td>
 
 ```Python
-sns.histplot(data=df,x="total_bill",hue="time",element
-                        ="step",stat="density")
+sns.histplot(data=df,x="total_bill",hue="time",
+                 lement="step",stat="density")
 plt.title("Total Bill Amounts by Time of Day")
 plt.show()
 ``` 
