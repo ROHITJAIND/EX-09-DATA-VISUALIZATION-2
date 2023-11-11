@@ -188,8 +188,8 @@ plt.show()
 plt.figure(figsize=(6,3))
 sns.barplot(x=df["size"],y=df["total_bill"],hue
                 =df["size"])
-plt.title("Highrst Average Total Bill Amount by Dining
-           Party Size")
+plt.title("Highrst Average Total Bill Amount by
+            Dining Party Size")
 ``` 
 </td> 
 <td>
@@ -207,7 +207,8 @@ plt.title("Highrst Average Total Bill Amount by Dining
 
 ```Python
 sns.boxplot(x="day", y="tip", data=df)
-plt.title("Distribution of Tip Amount by Day of Week")
+plt.title("Distribution of Tip Amount by
+               Day of Week")
 plt.show()
 ``` 
 </td> 
