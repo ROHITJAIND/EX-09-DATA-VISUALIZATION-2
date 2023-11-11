@@ -245,8 +245,8 @@ plt.title("Tip Amount Based on Type of Service")
 
 ```Python
 sns.scatterplot(x="total_bill",y="tip",data=df)
-plt.title("Correlation between Total Bill Amount and Tip   
-            Amount")
+plt.title("Correlation between Total Bill Amount and
+           Tip Amount")
 plt.show()
 ``` 
 </td> 
